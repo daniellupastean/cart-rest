@@ -1,4 +1,4 @@
-# Cart Microservice
+# Cart REST Service
 
 Shopping cart management microservice for The Cheeky Cart online store. Handles adding products to cart, updating quantities, and managing cart state before checkout.
 
