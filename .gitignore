@@ -36,6 +36,7 @@ Thumbs.db
 # Application specific
 cart-rest
 bin/
+k6-tests/results/
 *.log
 
 # Environment files
